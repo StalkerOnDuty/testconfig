@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <ID>1</ID>
+    <ObjectName>Склад 65</ObjectName>
+    <Server>https://vk.com:80</Server>
+    <APN>www.mts.ua</APN>
+    <MasterToken>048c5da2d22f80</MasterToken>
+    <PhoneBook>
+        <Phone>+380957932846</Phone>
+    </PhoneBook>
+    <SaveLogcatLogs>true</SaveLogcatLogs>
+    <SendSMSAfterServicesFail>true</SendSMSAfterServicesFail>
+    <UpdateTime>20:50</UpdateTime>
+    <UpdateInterval>5</UpdateInterval>
+    <LogUploadingInterval>2</LogUploadingInterval>
+    <USSDTime>23:19</USSDTime>
+    <USSDString>*101#</USSDString>
+</Configuration>

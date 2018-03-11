@@ -2,7 +2,7 @@
 <Configuration>
     <ID>1</ID>
     <ObjectName>Тестовый</ObjectName>
-    <Server>http://stalker.megadevices.com.ua/add_log.php</Server>
+    <Server>http://priborohrani.dyndns.org:8080/logs</Server>
     <APN>www.mts.ua</APN>
     <MasterToken>8EEE865B</MasterToken>
     <PhoneBook>
